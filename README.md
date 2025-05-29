@@ -23,6 +23,7 @@ This project simulates a **differential drive robot** navigating a 2D grid world
 
 
 ## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/1205e078-7e2b-4036-8285-60d2cc443024)
 
 
 ## 📂 Files
